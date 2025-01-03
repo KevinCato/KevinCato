@@ -23,7 +23,6 @@
 
 <h3 align="center">Technologies I'm Learning</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/Astro-FF5D01.svg?logo=astro&logoColor=white" alt="Astro" />
   <img src="https://img.shields.io/badge/Prisma-2D3748.svg?logo=prisma&logoColor=white" alt="Prisma" />
   <img src="https://img.shields.io/badge/Strapi-2E7EEA.svg?logo=strapi&logoColor=white" alt="Strapi" />
